@@ -97,3 +97,4 @@ console.log(typeof var5) //permanently changes type
 
 let var6 = Number.parseInt(var5)
 console.log(typeof var6)
+console.log(typeof var6)
